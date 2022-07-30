@@ -1,3 +1,4 @@
 baseURL = "https://michaelskyba.github.io/ataraxy"
 languageCode = "en-us"
 title = "Ataraxy"
+theme = "hugunica"
